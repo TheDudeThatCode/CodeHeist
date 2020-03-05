@@ -41,8 +41,22 @@ startups, there are a number of emerging
 trends in this space, especially in the Indian
 market.
 
-# Aimition:
+# Aim:
+To help startup grow their business by providing them place to work, at restaurant at affordable price. To utilize the empty spaces during off peak hours. 
+
+
+
 # FEATURES:
 + Work on the Go.
 + Book nearby restaurants at your convinience
-+ Help the s
++ Help the startups in working independently anywhere.
++ Also helpful for Freelancers
++ Available for booking at most of places.
+
+
+# STEPS TO USE THIS PROJECT:
+
+
++ Run `npm install` to install all node packages
+
++ Use `npm start` to run expo CLI. 
