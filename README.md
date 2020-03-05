@@ -41,12 +41,12 @@ startups, there are a number of emerging
 trends in this space, especially in the Indian
 market.
 
-# Aim:
+# Aim: 📌
 To help startup grow their business by providing them place to work, at restaurant at affordable price. To utilize the empty spaces during off peak hours. 
 
 
 
-# FEATURES:
+# FEATURES: 🎯
 + Work on the Go.
 + Book nearby restaurants at your convinience
 + Help the startups in working independently anywhere.
@@ -54,9 +54,12 @@ To help startup grow their business by providing them place to work, at restaura
 + Available for booking at most of places.
 
 
-# STEPS TO USE THIS PROJECT:
+# 🚀 STEPS TO USE THIS PROJECT:
 
 
 + Run `npm install` to install all node packages
 
-+ Use `npm start` to run expo CLI. 
++ Use `npm start` to run Expo CLI. 
+
+---
+![Getspace](https://github.com/TheDudeThatCode/CodeHeist/blob/master/APP.gif "Getspace app")
